@@ -2,7 +2,9 @@
     <section class="py-12 popular-subject flex items-center justify-center">
         <div class="container mx-auto px-4 sm:px-6 lg:px-30">
             <div class="text-center">
-                <h2 class="text-3xl font-semibold text-[#e87000] uppercase">Explore Popular Subjects</h2>
+                <h1 class="text-3xl font-semibold text-[#e87000] uppercase">
+                    Explore Popular Subjects
+                </h1>
                 <p class="text-[#6c757d] text-lg mt-2">Discover the top subjects chosen by students worldwide.</p>
             </div>
 
